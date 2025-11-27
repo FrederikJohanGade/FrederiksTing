@@ -23,7 +23,7 @@ const controls = createMutable({
 	currentFrame: 0,
 	outputFrames: 120,
 	loopFrames: false,
-	paused: false,
+	paused: false, 
 	seed: 1,
 	fileName: "canvas-starter",
 	videoFormat: "mp4" as (typeof VIDEO_FORMATS)[number],
